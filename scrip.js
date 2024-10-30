@@ -7,6 +7,7 @@ const banner = document.querySelector('.app__image')
 focoBt.addEventListener('click', function () {
     html.setAttribute('data-contexto','foco')
     banner.setAttribute('src','/imagens/foco.png')
+ 
 
 })
 
